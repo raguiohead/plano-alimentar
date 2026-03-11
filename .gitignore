@@ -1,6 +1,7 @@
 # Documentos pessoais / PDFs do plano
 *.pdf
-*.md
+meal-plan-webapp-prompt.md
+"Plano alimentar AIS*.md"
 
 # Pastas de dependências
 app/node_modules/
