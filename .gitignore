@@ -1,0 +1,25 @@
+# Documentos pessoais / PDFs do plano
+*.pdf
+*.md
+
+# Pastas de dependências
+app/node_modules/
+app/.vite/
+app/dist/
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor
+.vscode/settings.json
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
